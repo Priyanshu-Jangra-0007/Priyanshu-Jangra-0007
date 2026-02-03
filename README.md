@@ -45,13 +45,11 @@
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Jangra-0007&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Jangra-0007&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Priyanshu-Jangra-0007&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Priyanshu-Jangra-0007&layout=compact&theme=dark" />
 </p>
 
 
@@ -60,8 +58,16 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://github.com/Priyanshu-Jangra-0007"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white"/></a>
-<a href="mailto:priyanshujangra619@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://leetcode.com"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/priyanshu-a75140318/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/priyanshujangra__/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.instagram.com/priyanshujangra__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:priyanshujangra619@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
