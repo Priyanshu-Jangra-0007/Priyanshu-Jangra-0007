@@ -47,28 +47,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Priyanshu-Jangra-0007&show_icons=true&theme=dark"
-    height="170"
-  />
-</p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Priyanshu-Jangra-0007&theme=dark"
-    height="170"
-  />
+  <img src="https://img.shields.io/github/followers/Priyanshu-Jangra-0007?style=for-the-badge&logo=github" />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Priyanshu-Jangra-0007&layout=compact&theme=dark"
-    height="170"
-  />
-</p>
-
-
 
 ---
 
