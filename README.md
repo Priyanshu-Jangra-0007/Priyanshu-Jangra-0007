@@ -1,4 +1,5 @@
-![Priyanshu Jangra Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Priyanshu%20Jangra&fontSize=48&fontAlignY=40&desc=Web%20Developer%20%7C%20AI%20%26%20DSA%20Enthusiast&descAlignY=65&descSize=20)
+![Priyanshu Jangra Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Priyanshu%20Jangra&fontSize=46
+)
 
 <img src="https://raw.githubusercontent.com/Priyanshu-Jangra-0007/Priyanshu-Jangra-0007/main/assets/img.png"
      width="120"
@@ -47,11 +48,12 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Priyanshu-Jangra-0007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Jangra-0007&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Jangra-0007&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Jangra-0007&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Jangra-0007&layout=compact&langs_count=8&theme=algolia"/>
 </p>
+
 
 ---
 
