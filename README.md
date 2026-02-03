@@ -1,6 +1,11 @@
 ![Priyanshu Jangra Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Priyanshu%20Jangra&fontSize=48&fontAlignY=40&desc=Web%20Developer%20%7C%20AI%20%26%20DSA%20Enthusiast&descAlignY=65&descSize=20)
 
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
+<img src="https://raw.githubusercontent.com/Priyanshu-Jangra-0007/Priyanshu-Jangra-0007/main/assets/img.png"
+     width="120"
+     style="border-radius: 50%;"
+     align="left"
+     alt="Priyanshu Profile Photo"/>
+
 <h2>Hey there! I'm Priyanshu</h2>
 
 ---
@@ -42,9 +47,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/priyanshujangra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshujangra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshujangra&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Priyanshu-Jangra-0007">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Jangra-0007&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Jangra-0007&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -54,7 +59,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://github.com/priyanshujangra"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Priyanshu-Jangra-0007"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white"/></a>
 <a href="mailto:priyanshujangra619@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
 </p>
