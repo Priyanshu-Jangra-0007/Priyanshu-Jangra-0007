@@ -1,6 +1,6 @@
-<div align="center" width="50">
-
-<img src="https://i.ibb.co/wNpzvwJM/your-image.png" alt="Hello Coders" width="60%"/><br>
+<div align="center" width="50"><a href="https://github.com/Priyanshu-Jangra-0007">
+  <img src="https://raw.githubusercontent.com/Priyanshu-Jangra-0007/Priyanshu-Jangra-0007/main/assets/hellocoders.gif" alt="Hello Coders" width="60%"/>
+</a><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Priyanshu-Jangra-0007" alt="Workspace" width="40%"/><br>
 
 <h1>Hi 👋, I'm Priyanshu</h1>
