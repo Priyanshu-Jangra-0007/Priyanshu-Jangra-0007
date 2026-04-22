@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
-<h3 align="center">Full Stack Developer | Java Backend | Data & Analytics</h3>
+<h3 align="center">Full Stack Developer | Java Frontend | Data & Analytics</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Full+Stack+Builder;Data+Analytics+Enthusiast;Always+Learning+New+Tech">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Java+Frontend+Developer;Full+Stack+Builder;Data+Analytics+Enthusiast;Always+Learning+New+Tech">
 </p>
 
 ---
@@ -10,8 +10,8 @@
 ## 💫 About Me
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 Working on: **Java backend apps, full-stack projects, data dashboards**
-- 🤝 Open to: **Web dev, backend systems, analytics projects**
+- 🔭 Working on: **Java Frontend apps, full-stack projects, data dashboards**
+- 🤝 Open to: **Web dev, Frontend systems, analytics projects**
 - 🧠 Learning: **Spring Boot, SQL Optimization, System Design**
 - 💬 Ask me about: **Java, Python, SQL, Dashboards**
 - ⚡ Fun fact: **Coding + Fitness consistency = my routine**
