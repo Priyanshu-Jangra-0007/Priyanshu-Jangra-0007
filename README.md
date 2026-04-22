@@ -1,19 +1,72 @@
+<h1 align="center">Hi 👋, I'm Priyanshu</h1>
+<h3 align="center">Full Stack Developer | Java Backend | Data & Analytics</h3>
 
-# 💫 About Me:
-🔭 I’m currently working on: Java backend apps, full-stack projects, and data dashboards<br><br>🤝 I’m looking to collaborate on: Web development, backend systems, or analytics projects<br><br>🤝 I’m looking for help with: Advanced Spring Boot, system design, and scalable architectures<br><br>🌱 I’m currently learning: Spring Boot, SQL optimization, Power BI, and analytics engineering<br><br>💬 Ask me about: Java, Python, SQL, dashboards, or building clean user-focused applications<br><br>⚡ Fun fact: I love exploring new tech, solving coding challenges, and staying consistent in fitness
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshujangra__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-a75140318) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshujangra619@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Priyanshu-Jangra-0007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Priyanshu-Jangra-0007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Jangra-0007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Full+Stack+Builder;Data+Analytics+Enthusiast;Always+Learning+New+Tech">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Priyanshu-Jangra-0007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 🔭 Working on: **Java backend apps, full-stack projects, data dashboards**
+- 🤝 Open to: **Web dev, backend systems, analytics projects**
+- 🧠 Learning: **Spring Boot, SQL Optimization, System Design**
+- 💬 Ask me about: **Java, Python, SQL, Dashboards**
+- ⚡ Fun fact: **Coding + Fitness consistency = my routine**
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://instagram.com/priyanshujangra__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/priyanshu-a75140318"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:priyanshujangra619@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,spring,mysql,python,git,github" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+- 🔹 **Monastery360** – Virtual exploration app (React + Firebase)  
+- 🔹 **PowerZone** – AI-powered fitness platform  
+- 🔹 **PasteLab** – Code sharing platform (React + TS)  
+- 🔹 **OneTimeTalk** – Real-time chat app  
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Jangra-0007&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Jangra-0007&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Jangra-0007&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Jangra-0007&theme=react-dark" />
+
+---
+
+## 🔥 Profile Views
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Priyanshu-Jangra-0007&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
