@@ -19,18 +19,12 @@
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
@@ -40,11 +34,9 @@
 
 class About extends Me {
   const myTools = {
-    "ProgrammingLanguages" : { "Java", "Python", "JavaScript", "TypeScript" },
+    "ProgrammingLanguages" : { "Java", "JavaScript", "TypeScript" },
     "Frontend"             : { "React", "HTML", "CSS" },
-    "Backend"              : { "Spring Boot", "Node.js" },
     "Database"             : { "MySQL", "Firebase", "SQL" },
-    "DataAnalytics"        : { "Pandas", "NumPy", "Matplotlib", "Power BI" },
     "Tools"                : { "Git", "GitHub", "VS Code", "Figma" }
   };
 }
@@ -60,10 +52,10 @@ class About extends Me {
 
 ## 🚀 Featured Projects
 
-- 🔹 **[Monastery360](https://github.com/Priyanshu-Jangra-0007)** – Virtual exploration app (React + Firebase)
-- 🔹 **[PowerZone](https://github.com/Priyanshu-Jangra-0007)** – AI-powered fitness platform
-- 🔹 **[PasteLab](https://github.com/Priyanshu-Jangra-0007)** – Code sharing platform (React + TS)
-- 🔹 **[OneTimeTalk](https://github.com/Priyanshu-Jangra-0007)** – Real-time chat app
+- 🔹 **[Monastery360](https://github.com/Priyanshu-Jangra-0007/Monastery360)** – Virtual exploration app (React + Firebase)
+- 🔹 **[PowerZone](https://github.com/Priyanshu-Jangra-0007/PowerZone)** – AI-powered fitness platform
+- 🔹 **[PasteLab](https://github.com/Priyanshu-Jangra-0007/Pastelab)** – Code sharing platform (React + TS)
+- 🔹 **[OneTimeTalk](https://github.com/Priyanshu-Jangra-0007/onetimetalk)** – Real-time chat app
 
 <hr></hr>
 
