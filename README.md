@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Priyanshu-Jangra-0007" alt="Workspace" width="40%"/><br>
 
 <h1>Hi 👋, I'm Priyanshu</h1>
-<h3>Full Stack Developer | Java Frontend | Data & Analytics</h3>
+<h3>Full Stack Developer | Java Frontend </h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Java+Frontend+Developer;Full+Stack+Builder;Data+Analytics+Enthusiast;Always+Learning+New+Tech">
 
