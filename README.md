@@ -71,7 +71,7 @@ class About extends Me {
 <details>
   <summary>More stats</summary>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Jangra-0007&theme=react-dark" >
+
 
 </details>
 
