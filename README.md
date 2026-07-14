@@ -60,7 +60,6 @@ class About extends Me {
 <hr></hr>
 
 <div align="center">
-<a href="https://github.com/Priyanshu-Jangra-0007">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Jangra-0007&show_icons=true&theme=nord" width="32.5%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Jangra-0007&layout=compact&theme=nord" width="32.5%">
